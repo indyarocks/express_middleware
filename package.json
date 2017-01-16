@@ -1,0 +1,28 @@
+{
+  "name": "express_middleware",
+  "version": "1.0.0",
+  "description": "Express Middleware",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indyarocks/express_middleware.git"
+  },
+  "keywords": [
+    "ExpressJS",
+    "Middleware",
+    "NodeJS"
+  ],
+  "author": "Chandan Jhunjhunwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indyarocks/express_middleware/issues"
+  },
+  "homepage": "https://github.com/indyarocks/express_middleware#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
